@@ -1,4 +1,4 @@
-### CSS and Sass
+# CSS and Sass
 
 - css rules
-![css rules](./src/assets/)
+![css rules](./assets/css-clean.png)
